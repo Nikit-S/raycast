@@ -1,0 +1,21 @@
+R      811           431
+
+NO   ./WALLS/wall_smp_n.xpm
+SO ./WALLS/wall_smp_s.xpm
+WE ./WALLS/wall_smp_w.xpm
+
+EA       ./WALLS/wall_smp_e.xpm
+
+
+S ./WALLS/sprite.xpm
+F   0,    60,   120
+C    100 ,    255 ,   255
+
+
+
+1111111
+1000001
+1110001
+1S00111
+10211 1
+1111111
